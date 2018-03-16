@@ -1,0 +1,74 @@
+Name : Section :  
+[Lecturer.ply] Dr Mohamed Sherif
+[Lecturer.ply] Dr Stephen Pettit
+[Lecturer.ply] Dr Pavlika Vasos
+[Lecturer.ply] Mr James Edmunds
+[Lecturer.ply] Mr Iain Hughes
+[Lecturer.ply] Mr Ofer Dekel
+[Lecturer.ply] Jonathan Lean
+[Lecturer.ply] John Boston
+[Lecturer.ply] Dulekha Kasturiratne
+[Lecturer.ply] Robert Williams
+[Lecturer.ply] Syamantak Bhattacharya
+[Lecturer.ply] Christopher Andrew
+[Lecturer.ply] Jo Bird
+[Lecturer.ply] Mr.David
+[Lecturer.ply] Ms.Diane
+[Lecturer.ply] Susan Horner
+[Lecturer.ply] Dr Carmen Lopez
+[Lecturer.ply] Dr Bogdan Ghita
+(Lecture) Mahikala Niranga
+NSBM LECTURER NSBM LECTURER
+LMS_PGD LECTURER PGD Lecturers
+PGD_LECTURE PGD Lecturers
+PGD_LECTURE PGD Lecturers
+PGD_LECTURER PGD Lecturer
+PGD_LECTURE PGD Lecturer
+PGD_LECTURER PGD Lecturers
+PGD_LECTURE PGD Lecturers
+PGD_LECTURER PGD Lecturers
+LMS_LECTURE PGD Lecturers
+SOC-NSBM-Lecture Chalai .R
+LMS.VIsiting Lecturer Rasika Alahakoon
+SOB-LMS-Visiting Lecture Udena Shilpathilake
+SOB-LMS-Visiting Lecturer Amal Nanayakkara
+LMS-NSBM-Visiting Lecture Rajitha Silva
+LMS-NSBM-Visiting Lecture Saliya Vithana
+LMS-NSBM-Visiting Lecture Seroshi nandasiri
+LMS-NSBM-Visiting Lecture I.G.Perera
+LMS-NSBM-Visiting Lecture Felix Fernando
+LMS-NSBM-Visiting Lecture Michel Ellias
+LMS-NSBM-Visiting Lecture Dilan Tharindu
+LMS-NSBM-Visiting Lecture Janak Badugama
+LMS-NSBM-Visiting Lecture Sudath Amarasena
+LMS-NSBM-Visiting Lecture Roshan Ajwad
+LMS-NSBM-Visiting Lecture Shabeer Ahamed
+LMS-NSBM-Visiting Lecture Dr.Pushpa Maldeniya
+LMS-NSBM-Visiting Lecture Rangana Shalika
+LMS-NSBM-Visiting Lecture Rehan Almeda
+LMS-NSBM-Visiting Lecture Amal Nanayakkara
+LMS-NSBM-Visiting Lecture Udena Shilpathilake
+LMS-NSBM-Visiting Lecture Ms. Tharushi
+LMS-Visiting Lecturer Tharushi Jayarathna
+NSBM-LMS-Lecturer Navindi Wickramanayake
+LMS-NSBM-Lecturer Chinthana sandaruwan
+NSBM-LMS- Lecturer Niranji Satanarachchi
+NSBM-LMS- Lecturer Dr.C.Abaysinghe
+NSBM-LMS- Visiting Lecturer Mahinda Pathirana
+NSBM-LMS- Visiting Lecturer Mr. Kolitha Ranawaka
+NSBM-LMS- Visiting Lecturer Lecturer. PGD Program
+Plymouth Management Lecturer V K Colombage
+Plymouth Management Lecturer E A C Dilrukshi
+lecturer Rataha@123
+SOB Lecturer -LMS Lahiyru Gunaseekara
+Visiting Lecturer-NSBM Y Rathnayaka
+Visiting Lecturer-NSBM Mr Ruwan Nawarathne
+Visiting Lecturer-NSBM Mr Aruna Kooragama
+SOB Lectuere Methma Karunarathne
+lec123 S Prabath
+LMS-Lecturer Nipuni Dalluwattha
+Lecturer-SOB Natashya Chamba
+SOB Lecturer -LMS Nilantha Malawige
+ 
+ 
+ 
